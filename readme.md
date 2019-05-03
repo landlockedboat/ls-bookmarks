@@ -1,4 +1,4 @@
-# ls-bookmarks :bookmark:
+# ls-bookmarks :bookmark:
 
 # Installation
 
