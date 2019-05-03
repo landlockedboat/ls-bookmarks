@@ -9,3 +9,7 @@ Just `git clone` this repository.
 `./ls-bookmarks folder`
 
 Lists all Safari bookmarks under the folder `folder`.
+
+## License
+
+MIT © [vikepic](https://vikepic.github.io)
